@@ -3,7 +3,7 @@
 * NUMlockCALC                                                                                  *
 *                                                                                              *
 * Version:              2.2 BETA                                                               *
-* AutoHotkey Version:	1.1.13.00                                                              *
+* AutoHotkey Version:	1.1                                                                    *
 * NUMlockCalc Version:	2.1 (version history at the bottom of this script)                     *
 * Language:           	English                                                                *
 * Platform:           	7, 8                                                                   *
@@ -60,6 +60,10 @@ NUMlockCALC known issues:
     and conflictwith SetNumLockState. This has been fixed for Hyper-V Virtual Machine
     Connection. Other VM software has not been tested.
   - Holding the Num Lock key can launch multiple instances of calc.exe.
+  
+  
+TO DO:
+ - Compile.
 
 	
 NUMlockCALC version history:
