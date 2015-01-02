@@ -2,7 +2,7 @@
 ************************************************************************************************
 * NUMlockCALC                                                                                  *
 *                                                                                              *
-* Version:              2.2 BETA                                                               *
+* Version:              2.3 BETA                                                               *
 * AutoHotkey Version:	1.1                                                                    *
 * NUMlockCalc Version:	2.1 (version history at the bottom of this script)                     *
 * Language:           	English                                                                *
@@ -29,6 +29,7 @@ TO DO:
 
 	
 NUMlockCALC version history:
+2.3 - Added #SingleInstance.
 2.2 - Updated documentation.
 2.1 - Fixed conflicts with Hyper-V Virtual Machine Connection.
 2.0 - Renamed to NUMlockCALC.
